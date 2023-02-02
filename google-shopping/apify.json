@@ -1,0 +1,7 @@
+{
+	"name": "google-shopping-floynk",
+	"version": "1.0",
+	"buildTag": "latest",
+	"env": null,
+	"template": "puppeteer_crawler"
+}
